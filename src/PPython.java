@@ -1,5 +1,5 @@
 public class PPython implements Programa {
-    private static final String fala = "*Escrutina em Python*";
+    private static final String fala = "*Escrutinar em Python*";
     private String name;
 
     public PPython(String name){
